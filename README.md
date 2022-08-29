@@ -25,14 +25,14 @@ The user should clone the repository from GitHub and download Node.js. This appl
 ## Usage Information
   
 Enter the title and the note on the right side, and clicked the save button on top. Then the note will save on the left side. If you want to see the past notes, just click the note title on the left.
-[Usage Video](https://drive.google.com/file/d/1gWsDyO7TfMZywuKBNI7T_YoWeFsE-DxU/view)
-WebURL: https://tottomoe.github.io/10-TeamProfileGenerator/
+[Usage Video](https://drive.google.com/file/d/1949DGPVMEg2bCuqlDniOBRGxNFKF3F_l/view)
+WebURL: https://tottomoe.github.io/11-NoteTaker/
 ***
 
 <a name="test"></a>
 ## Test ScreenShot
-![Screen-Shot1](./screenshot2.png)
-![Screen-Short](./screenshot3.png)
+![Screen-Shot1](./ScreenShot1.png)
+![Screen-Short](./screenshot2.png)
 
 <a name="questions"></a>
 ## Questions
