@@ -32,7 +32,7 @@ WebURL: https://fierce-tundra-85628.herokuapp.com/
 <a name="test"></a>
 ## Test ScreenShot
 ![Screen-Shot1](./ScreenShot1.png)
-![Screen-Short](./screenShot2.png)
+![Screen-Short](./ScreenShot2.png)
 
 <a name="questions"></a>
 ## Questions
