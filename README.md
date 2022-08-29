@@ -26,7 +26,7 @@ The user should clone the repository from GitHub and download Node.js. This appl
   
 Enter the title and the note on the right side, and clicked the save button on top. Then the note will save on the left side. If you want to see the past notes, just click the note title on the left.
 [Usage Video](https://drive.google.com/file/d/1949DGPVMEg2bCuqlDniOBRGxNFKF3F_l/view)
-WebURL: https://tottomoe.github.io/11-NoteTaker/
+WebURL: https://fierce-tundra-85628.herokuapp.com/
 ***
 
 <a name="test"></a>
